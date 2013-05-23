@@ -22,6 +22,8 @@ group :production do
   gem 'pg', '0.14.1'
 end
 
+gem 'execjs', '1.4.0'
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
